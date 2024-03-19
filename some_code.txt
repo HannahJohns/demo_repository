@@ -2,3 +2,4 @@ This is some code for the demonstration.
 This is some more code that we have changed.
 THIS IS A BUG FIX!
 This is a new feature that we are developing.
+This is some changes to the code suggested by someone else
